@@ -1,6 +1,6 @@
-krdc (4:4.11.2-1) UNRELEASED; urgency=low
+krdc (4:4.11.2-1) experimental; urgency=low
 
   * First release of kdenetwork after being split by upstream.
   * Add cmake license to debian/copyright.
 
- -- Maximiliano Curia <maxy@debian.org>  Wed, 09 Oct 2013 13:14:59 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 09 Oct 2013 14:09:23 +0200

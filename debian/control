@@ -8,11 +8,13 @@ Uploaders: Sune Vuorela <sune@debian.org>,
            George Kiagiadakis <kiagiadakis.george@gmail.com>,
            Eshat Cakar <info@eshat.de>,
            Maximiliano Curia <maxy@debian.org>
-Build-Depends: kde-sc-dev-latest (>= 4:4.11),
- cmake, debhelper (>= 9), pkg-kde-tools (>= 0.12),
- kdelibs5-dev (>= 4:4.11),
- libvncserver-dev (>= 0.9.8.1),
- libtelepathy-qt4-dev (>= 0.9)
+Build-Depends: cmake,
+               debhelper (>= 9),
+               kde-sc-dev-latest (>= 4:4.11),
+               kdelibs5-dev (>= 4:4.11),
+               libtelepathy-qt4-dev (>= 0.9),
+               libvncserver-dev (>= 0.9.8.1),
+               pkg-kde-tools (>= 0.12)
 Standards-Version: 3.9.5
 Homepage: http://www.kde.org/
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/krdc.git
@@ -21,8 +23,8 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/krdc.git
 Package: krdc
 Section: net
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
-Recommends: rdesktop, freerdp-x11 (>= 1.0.2)
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Recommends: freerdp-x11 (>= 1.0.2), rdesktop
 Suggests: khelpcenter4, krfb
 Description: Remote Desktop Connection client
  The KDE Remote Desktop Connection client can view and control a desktop

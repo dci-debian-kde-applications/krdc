@@ -4,3 +4,6 @@ include /usr/share/pkg-kde-tools/qt-kde-team/2/debian-qt-kde.mk
 
 override_dh_auto_install:
 	$(overridden_command) --destdir=debian/tmp
+
+override_dh_strip:
+	dh_strip --dbg-package=krdc-dbg

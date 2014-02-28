@@ -1,5 +1,8 @@
 krdc (4:4.12.2-2) UNRELEASED; urgency=medium
 
+  [ Lisandro Damián Nicanor Pérez Meyer ]
+  * Provide a dbg package (Closes: #740294).
+
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Fri, 28 Feb 2014 09:21:39 -0300
 
 krdc (4:4.12.2-1) experimental; urgency=medium

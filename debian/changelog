@@ -1,4 +1,4 @@
-krdc (4:4.13.1-1) UNRELEASED; urgency=medium
+krdc (4:4.13.1-1) unstable; urgency=medium
 
   [ Adrien Grellier ]
   * drop rdesktop recommends, as freerdp-x11 is now mandatory
@@ -7,7 +7,7 @@ krdc (4:4.13.1-1) UNRELEASED; urgency=medium
   [ Maximiliano Curia ]
   * New upstream release.
 
- -- Maximiliano Curia <maxy@debian.org>  Fri, 23 May 2014 16:44:05 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 23 May 2014 18:26:56 +0200
 
 krdc (4:4.12.4-1) unstable; urgency=medium
 

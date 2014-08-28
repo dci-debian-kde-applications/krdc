@@ -1,3 +1,9 @@
+krdc (4:4.13.1-3) UNRELEASED; urgency=medium
+
+  * Fix previous patch
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 27 Aug 2014 05:11:08 +0200
+
 krdc (4:4.13.1-2) unstable; urgency=medium
 
   * New patch: fix_kfreebsd_ftbfs (Closes: #754687)

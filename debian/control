@@ -18,7 +18,7 @@ Build-Depends: cmake,
 Standards-Version: 3.9.5
 Homepage: http://www.kde.org/
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/krdc.git
-Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/krdc.git
+Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-applications/krdc.git
 
 Package: krdc
 Section: net

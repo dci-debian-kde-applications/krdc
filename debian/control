@@ -17,15 +17,15 @@ Build-Depends: cmake,
                pkg-kde-tools (>= 0.12)
 Standards-Version: 3.9.5
 Homepage: http://www.kde.org/
-Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/kde-applications/krdc.git/
-Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-applications/krdc.git
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/krdc.git
+Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/krdc.git
 
 Package: krdc
 Section: net
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Recommends: freerdp-x11 (>= 1.0.2)
-Suggests: khelpcenter, krfb
+Suggests: khelpcenter4, krfb
 Description: Remote Desktop Connection client
  The KDE Remote Desktop Connection client can view and control a desktop
  session running on another system.  It can connect to Windows Terminal Servers

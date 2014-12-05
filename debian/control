@@ -25,7 +25,7 @@ Section: net
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Recommends: freerdp-x11 (>= 1.0.2)
-Suggests: khelpcenter4, krfb
+Suggests: khelpcenter, krfb
 Description: Remote Desktop Connection client
  The KDE Remote Desktop Connection client can view and control a desktop
  session running on another system.  It can connect to Windows Terminal Servers

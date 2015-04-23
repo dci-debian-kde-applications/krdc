@@ -1,3 +1,9 @@
+krdc (4:15.04.0-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (15.04.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 23 Apr 2015 16:20:11 +0200
+
 krdc (4:14.12.2-1) experimental; urgency=medium
 
   * Prepare Debian release.

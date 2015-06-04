@@ -5,6 +5,12 @@ krdc (4:15.04.1-0ubuntu1) UNRELEASED; urgency=medium
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 13 May 2015 22:22:25 -0700
 
+krdc (4:14.12.3-0ubuntu2) wily; urgency=medium
+
+  * No change rebuild for libvncclient1
+
+ -- Micah Gersten <micahg@ubuntu.com>  Thu, 04 Jun 2015 11:45:37 -0500
+
 krdc (4:14.12.3-0ubuntu1) vivid; urgency=medium
 
   * New upstream release

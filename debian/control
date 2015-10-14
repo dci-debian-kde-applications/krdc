@@ -24,7 +24,7 @@ Package: krdc
 Section: net
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Recommends: freerdp-x11 (>= 1.0.2)
+Recommends: freerdp-x11 (>= 1.0.2), kde-baseapps-bin
 Suggests: khelpcenter, krfb
 Description: Remote Desktop Connection client
  The KDE Remote Desktop Connection client can view and control a desktop

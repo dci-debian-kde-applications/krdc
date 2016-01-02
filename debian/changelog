@@ -1,3 +1,9 @@
+krdc (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream release
+
+ -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 14:12:10 +0000
+
 krdc (4:15.08.2-0ubuntu2) wily; urgency=medium
 
   * Recommend kde-baseapps-bin for keditbookmarks

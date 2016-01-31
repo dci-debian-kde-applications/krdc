@@ -32,16 +32,3 @@ Description: Remote Desktop Connection client
  using RDP and many other platforms using VNC/RFB.
  .
  This package is part of the KDE networking module.
-
-Package: krdc-dbg
-Section: debug
-Architecture: any
-Priority: extra
-Depends: krdc (= ${binary:Version}), ${misc:Depends}
-Description: Remote Desktop Connection client debugging symbols
- The KDE Remote Desktop Connection client can view and control a desktop
- session running on another system.  It can connect to Windows Terminal Servers
- using RDP and many other platforms using VNC/RFB.
- .
- This package provides the debugging symbols for krdc and is part of the KDE
- networking module.

@@ -1,9 +1,9 @@
-krdc (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
+krdc (4:15.12.1-0ubuntu1) xenial; urgency=medium
 
   * Merged with Debian
   * New upstream release
 
- -- Clive Johnston <clivejo@aol.com>  Thu, 11 Feb 2016 11:23:42 +0000
+ -- Clive Johnston <clivejo@aol.com>  Wed, 09 Mar 2016 11:01:18 +0100
 
 krdc (4:15.12.0-1) experimental; urgency=medium
 

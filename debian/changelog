@@ -1,10 +1,12 @@
-krdc (4:15.12.0-2~1.gbpb7e9b7) UNRELEASED; urgency=medium
+krdc (4:16.04.0-1~1.gbp8d3dfc) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @b7e9b7c188ca1079e450e406a44bee8d5e13a225 **
+  ** SNAPSHOT build @8d3dfc17267a9a9355c337aa14b400bee5b2a214 **
 
   * Bump Standards-Version to 3.9.8
+  * Update build-deps and deps with the info from cmake
+  * Refresh patches
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 12:23:41 +0200
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 01:23:25 +0200
 
 krdc (4:15.12.0-1) experimental; urgency=medium
 

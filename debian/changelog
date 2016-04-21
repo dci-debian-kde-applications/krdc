@@ -1,12 +1,22 @@
-krdc (4:16.04.0-1~1.gbp8d3dfc) UNRELEASED; urgency=medium
+krdc (4:16.04.0-1~2.gbpc57792) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @c57792680ff47f3cf97840bed1ce370fd6686122 **
+
+  [ Automatic packaging ]
   ** SNAPSHOT build @8d3dfc17267a9a9355c337aa14b400bee5b2a214 **
 
   * Bump Standards-Version to 3.9.8
   * Update build-deps and deps with the info from cmake
   * Refresh patches
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 21 Apr 2016 01:23:25 +0200
+  [ Maximiliano Curia ]
+  * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * Drop kde4 build deps
+  * Update install files
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Fri, 22 Apr 2016 00:46:44 +0200
 
 krdc (4:15.12.0-1) experimental; urgency=medium
 

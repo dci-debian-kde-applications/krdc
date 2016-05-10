@@ -1,6 +1,6 @@
-krdc (4:16.04.0-1~2.gbpc57792) UNRELEASED; urgency=medium
+krdc (4:16.04.1-1~1.gbpf09c06) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @c57792680ff47f3cf97840bed1ce370fd6686122 **
+  ** SNAPSHOT build @f09c06c343f9b650903c27708b1c83ce482a8532 **
 
   [ Automatic packaging ]
   ** SNAPSHOT build @8d3dfc17267a9a9355c337aa14b400bee5b2a214 **
@@ -15,8 +15,9 @@ krdc (4:16.04.0-1~2.gbpc57792) UNRELEASED; urgency=medium
   * debian/control: Update Vcs-Browser and Vcs-Git fields
   * Drop kde4 build deps
   * Update install files
+  * UNRELEASED
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Fri, 22 Apr 2016 00:46:44 +0200
+ -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Wed, 11 May 2016 01:23:17 +0200
 
 krdc (4:15.12.0-1) experimental; urgency=medium
 

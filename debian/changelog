@@ -1,10 +1,6 @@
-krdc (4:16.04.1-1~2.gbpbf101b) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @bf101b63961a11af1a4d98efa3d783bc7aea5fc0 **
+krdc (4:16.04.1-1) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @8d3dfc17267a9a9355c337aa14b400bee5b2a214 **
-
   * Bump Standards-Version to 3.9.8
   * Update build-deps and deps with the info from cmake
   * Refresh patches
@@ -15,11 +11,10 @@ krdc (4:16.04.1-1~2.gbpbf101b) UNRELEASED; urgency=medium
   * debian/control: Update Vcs-Browser and Vcs-Git fields
   * Drop kde4 build deps
   * Update install files
-  * UNRELEASED
   * Use the newer debian-qt-kde.mk
   * Update install file
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Thu, 26 May 2016 10:15:16 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 26 May 2016 11:04:17 +0200
 
 krdc (4:15.12.0-1) experimental; urgency=medium
 

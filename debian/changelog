@@ -1,3 +1,13 @@
+krdc (4:16.04.1-2~1.gbpcb6b8f) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @cb6b8f344ed6306718915afb827087a19b4bef7f **
+
+  * Build with rdp support.
+    Thanks to Zhang Jingqiang for reporting and suggesting a fix
+    (Closes: 825468)
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Fri, 27 May 2016 19:23:12 +0200
+
 krdc (4:16.04.1-1) unstable; urgency=medium
 
   [ Automatic packaging ]

@@ -1,3 +1,11 @@
+krdc (4:16.04.2-1~1.gbp43132e) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @43132e7d4c6eb7f59e9002fef28ebfc34aa3c3ae **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Wed, 15 Jun 2016 01:23:12 +0200
+
 krdc (4:16.04.1-2) unstable; urgency=medium
 
   * Build with rdp support.

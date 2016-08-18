@@ -1,10 +1,11 @@
-krdc (4:16.04.3-1~1.gbp4296e3) UNRELEASED; urgency=medium
+krdc (4:16.08.0-1~1.gbpcac1fa) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @4296e3f1c54d2496bb37fc86f83ef74bc1a780f0 **
+  ** SNAPSHOT build @cac1faf861d73a8c3bc50ec5bb10bd87726651d9 **
 
   * UNRELEASED
+  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Wed, 13 Jul 2016 01:23:20 +0200
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Fri, 19 Aug 2016 01:23:13 +0200
 
 krdc (4:16.04.2-1) unstable; urgency=medium
 

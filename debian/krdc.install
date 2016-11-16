@@ -1,5 +1,5 @@
 usr/bin/krdc
-usr/lib/*/libkrdccore.so.16.*
+usr/lib/*/libkrdccore.so.*.*
 usr/lib/*/libkrdccore.so.5
 usr/lib/*/qt5/plugins/krdc/
 usr/share/applications/org.kde.krdc.desktop

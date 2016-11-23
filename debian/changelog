@@ -1,10 +1,8 @@
-krdc (4:16.08.3-1~1.gbp785507) UNRELEASED; urgency=medium
+krdc (4:16.08.3-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @7855075ee8c708d2e43e7ce498c5fb2e41c9db82 **
+  * New upstream release (16.08.3)
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 10 Nov 2016 19:23:15 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 23 Nov 2016 21:15:53 +0100
 
 krdc (4:16.08.2-1) unstable; urgency=medium
 

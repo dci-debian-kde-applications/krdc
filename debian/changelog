@@ -1,3 +1,9 @@
+krdc (4:16.12.1-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 11 Jan 2017 13:21:19 +0000
+
 krdc (4:16.12.0-0neon) xenial; urgency=medium
 
   * New release

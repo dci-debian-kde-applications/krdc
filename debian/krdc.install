@@ -12,3 +12,4 @@ usr/share/kservices5/krdc_vnc_config.desktop
 usr/share/kservices5/rdp.protocol
 usr/share/kservices5/vnc.protocol
 usr/share/kxmlgui5/krdc/
+usr/share/locale/

@@ -15,6 +15,7 @@ Build-Depends: cmake (>= 2.8.12~),
                libkf5completion-dev,
                libkf5config-dev,
                libkf5dnssd-dev,
+               libkf5doctools-dev,
                libkf5i18n-dev,
                libkf5iconthemes-dev,
                libkf5kcmutils-dev,
@@ -36,6 +37,8 @@ Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Recommends: freerdp-x11 (>= 1.0.2)
 Suggests: khelpcenter, krfb
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: Remote Desktop Connection client
  The KDE Remote Desktop Connection client can view and control a desktop
  session running on another system.  It can connect to Windows Terminal Servers

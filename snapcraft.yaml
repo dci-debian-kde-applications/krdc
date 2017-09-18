@@ -34,6 +34,7 @@ parts:
         plugin: cmake
         build-packages:
         - kdoctools-dev
+        - libkf5dnssd-dev
         - libvncserver-dev
         source: https://download.kde.org/stable/applications/17.08.1/src/krdc-17.08.1.tar.xz
         configflags:

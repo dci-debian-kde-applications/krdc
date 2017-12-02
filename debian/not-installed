@@ -1,4 +1,0 @@
-# Links to private libraries and DBus interface XMLs
-usr/include/krdc/
-usr/lib/*/libkrdccore.so
-usr/include/krdccore_export.h

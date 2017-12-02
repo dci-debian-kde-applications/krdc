@@ -12,6 +12,10 @@ krdc (4:17.08.3-0r1) UNRELEASED; urgency=medium
     drop translations.
   * Bump Standards-Version to 4.1.1, no changes required.
   * Simplify watch file, and switch it to https.
+  * Stop forcing debian/tmp as local installation directory, installing
+    everything to the final location
+    - drop krdc.install, and not-installed, no more useful now
+    - make sure to not ship the development files
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 31 Oct 2017 18:02:29 +0100
 

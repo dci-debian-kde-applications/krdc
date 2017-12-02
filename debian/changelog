@@ -1,4 +1,6 @@
-krdc (4:17.08.3-0r1) UNRELEASED; urgency=medium
+krdc (4:17.08.3-1) unstable; urgency=medium
+
+  * Team upload.
 
   [ Maximiliano Curia ]
   * New upstream release (17.08.1)
@@ -17,7 +19,7 @@ krdc (4:17.08.3-0r1) UNRELEASED; urgency=medium
     - drop krdc.install, and not-installed, no more useful now
     - make sure to not ship the development files
 
- -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 31 Oct 2017 18:02:29 +0100
+ -- Pino Toscano <pino@debian.org>  Sat, 02 Dec 2017 15:51:08 +0100
 
 krdc (4:17.08.1-0neon) xenial; urgency=medium
 
